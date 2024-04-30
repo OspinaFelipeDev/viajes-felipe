@@ -1,5 +1,6 @@
 
 
+
 # Turismo
 Pagina de turismo
 =======
@@ -8,4 +9,7 @@ pagina de lugares
 
 =======
 # pagina-turismo
+=======
+# turismo-lugares
+
 Pagina de turismo
