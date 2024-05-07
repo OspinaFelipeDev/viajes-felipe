@@ -1,5 +1,5 @@
 {
-  "name": "pagina-turismo",
+  "name": "viajes-felipe",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,5 +22,5 @@
   "dependencies": {
     "tailwind-scrollbar-hide": "^1.1.7"
   },
-  "homepage": "https://OspinaFelipeDev.github.io/pagina-turismo"
+  "homepage": "https://OspinaFelipeDev.github.io/viajes-felipe"
 }
